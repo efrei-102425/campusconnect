@@ -1,5 +1,5 @@
 <div align="center"
-  <img width="48" height="48" alt="icons8-event-48" src="https://github.com/user-attachments/assets/c5cafe48-466d-400d-8969-eee792d92924" />
+  <img width="100" height="100" alt="icons8-event-48" src="https://github.com/user-attachments/assets/c5cafe48-466d-400d-8969-eee792d92924" />
   <h1>CampusConnect</h1>
 </div>
 
@@ -17,7 +17,7 @@ Le projet est presque prêt pour la publique. Voyez les [⏺️ issus](https://g
 🧑‍🤝‍🧑 Voir les inscription de vos amis, et les joindre<br/>
 📊 Statistiques d'inscription pour les administrateurs<br/>
 
-# Outils utilisé
+# Outils utilisés
 
 ⏭️ Jira<br/>
 📄 Confluence<br/>
