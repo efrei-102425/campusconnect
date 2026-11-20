@@ -1,5 +1,5 @@
-<div align="center"
-  <img width="100" height="100" alt="icons8-event-48" src="https://github.com/user-attachments/assets/c5cafe48-466d-400d-8969-eee792d92924" />
+<div align="center">
+  <img width="100" height="100" alt="icons8-event-48" src="/icons8-event-48.png" />
   <h1>CampusConnect</h1>
 </div>
 
